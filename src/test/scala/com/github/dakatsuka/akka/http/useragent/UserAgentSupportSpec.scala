@@ -1,8 +1,8 @@
-package jp.dakatsuka.akka.http.useragent
+package com.github.dakatsuka.akka.http.useragent
 
 import akka.http.javadsl.server.MissingHeaderRejection
-import akka.http.scaladsl.model.headers.`User-Agent`
 import akka.http.scaladsl.model.StatusCodes._
+import akka.http.scaladsl.model.headers.`User-Agent`
 import akka.http.scaladsl.server.Directives._
 import akka.http.scaladsl.testkit.ScalatestRouteTest
 import org.scalatest.{ DiagrammedAssertions, FlatSpec }

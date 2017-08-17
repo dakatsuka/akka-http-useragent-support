@@ -1,4 +1,4 @@
-organization := "jp.dakatsuka"
+organization := "com.github.dakatsuka"
 
 name := "akka-http-useragent-support"
 

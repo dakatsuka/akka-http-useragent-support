@@ -1,4 +1,4 @@
-package jp.dakatsuka.akka.http.useragent
+package com.github.dakatsuka.akka.http.useragent
 
 import is.tagomor.woothee.Classifier
 

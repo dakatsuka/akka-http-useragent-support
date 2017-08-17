@@ -1,4 +1,4 @@
-package jp.dakatsuka.akka.http.useragent
+package com.github.dakatsuka.akka.http.useragent
 
 import akka.http.scaladsl.server.Directive1
 import akka.http.scaladsl.server.Directives._
